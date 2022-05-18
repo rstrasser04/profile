@@ -7,7 +7,6 @@ const Proficiency = dynamic(() => import("../containers/Proficiency"));
 const Education = dynamic(() => import("../containers/Education"));
 const Experience = dynamic(() => import("../containers/Experience"));
 const Projects = dynamic(() => import("../containers/Projects"));
-const Feedbacks = dynamic(() => import("../containers/Feedbacks"));
 const GithubProfileCard = dynamic(() =>
 	import("../components/GithubProfileCard")
 );
@@ -19,19 +18,19 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Hanzla Tauqeer",
+					title: "Ryan Strasser",
 					description:
 						"A passionate Full Stack Web Developer and Blockchain Developer.",
 					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 					url: "https://developer-portfolio-1hanzla100.vercel.app",
 					keywords: [
-						"Hanzla",
-						"Hanzla Tauqeer",
+						"Ryan",
+						"Ryan Strasser",
 						"@1hanzla100",
 						"1hanzla100",
 						"Portfolio",
 						"Hanzla Portfolio ",
-						"Hanzla Tauqeer Portfolio",
+						"Ryan Strasser Portfolio",
 					],
 				}}
 			/>
@@ -41,7 +40,6 @@ export default function Home({ githubProfileData }) {
 			<Proficiency />
 			<Education />
 			<Experience />
-			<Feedbacks />
 			<Projects />
 			<GithubProfileCard prof={githubProfileData} />
 		</div>
