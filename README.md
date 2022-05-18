@@ -106,7 +106,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Ryan Strasser**
 
 -   Website: https://hanzla.netlify.app
 -   Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
