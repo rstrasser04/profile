@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to developer-portfolio 👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
 <a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
 
-## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
+## Senior Solutions Architect and Web Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
@@ -9,13 +9,9 @@
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+### To view a live example, **[click here](https://ryanstrasser.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/developer-portfolio/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
 
 ## Table of Contents
 
@@ -38,30 +34,16 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Projects\
 ✔️ Github Profile
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
-<br>
-**For Windows** Install Visual C++ Build Environment: [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools)
-
-```
-node@v10.16.0 or higher
-npm@6.9.0 or higher
-git@2.17.1 or higher
-```
-
 ## How To Use
 
 From your command line, clone and run developer-portolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1hanzla100/developer-portfolio.git
+$ git clone https://github.com/rstrasser04/profile.git
 
 # Go into the repository
-$ cd developer-portfolio
+$ cd profile
 
 # Install dependencies
 $ yarn
@@ -109,9 +91,8 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 👤 **Ryan Strasser**
 
 -   Website: https://hanzla.netlify.app
--   Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+-   Github: [@rstrasser04](https://github.com/rstrasser04)
+-   LinkedIn: [ryanastrasser](https://www.linkedin.com/in/ryanastrasser)
 
 ## Show your support
 
