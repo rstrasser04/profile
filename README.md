@@ -89,7 +89,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **Ryan Strasser**
 
--   Website: https://hanzla.netlify.app
+-   Website: https://ryanstrasser.netlify.app/
 -   Github: [@rstrasser04](https://github.com/rstrasser04)
 -   LinkedIn: [ryanastrasser](https://www.linkedin.com/in/ryanastrasser)
 
